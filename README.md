@@ -4,7 +4,7 @@ Tic Tac Toe
 1.2 Genre
 Casual, Strategy
 1.3 Platform
-Desktop (Windows, macOS, Linux)
+Desktop (Windows)
 1.4 Target Audience
 Players of all ages looking for a casual yet engaging strategy game.
 
@@ -66,7 +66,6 @@ Phase 4: Testing and bug fixing.
 9. Marketing and Distribution
 9.1 Target Platforms
 Initial Release: Desktop platforms (Windows).
-Future Expansion: Mobile platforms (Android).
 9.2 Promotion Strategy
 Launch: Social media announcements, press releases.
 Community Engagement: Player feedback, updates based on user input.
